@@ -1,2 +1,2 @@
 # My Geany IDE
-Geany IDE Snippets, tags, configs
+Geany IDE Snippets, tags, configs - Gitlab mirror
